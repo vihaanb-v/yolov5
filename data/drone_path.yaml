@@ -1,0 +1,7 @@
+train: /home/vihaan/vihaan-devel/Python_Programs/yolov5/drone_datasets/v38/train
+val: /home/vihaan/vihaan-devel/Python_Programs/yolov5/drone_datasets/v38/valid
+test: /home/vihaan/vihaan-devel/Python_Programs/yolov5/drone_datasets/v38/test
+
+nc: 6
+
+names: ['Building', 'Fence', 'House', 'Pole', 'Street Sign', 'Tree']
